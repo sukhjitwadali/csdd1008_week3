@@ -26,7 +26,6 @@
 * pwd : to show the currunt working directory or path 
 * sudo : excecute the command as super user . like sudo install nginx 
 * ssh : ssh to another server 
-* Basic Linux Commands:
 
 ## Conclusion:
 #### In running class I have learned above documeneted linux information. This knowledge is very helpfull to tackle various problems of linux and and also learned about how to install operation system thorough vitual enviroment. 
